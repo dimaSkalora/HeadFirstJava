@@ -1,4 +1,4 @@
-package head_05.sea_battle;
+package head_05.demo_sea_battle;
 
 public class SimpleDotComTestDrive {
     public static void main(String[] args) {
