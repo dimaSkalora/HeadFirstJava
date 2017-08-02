@@ -1,4 +1,4 @@
-package head_05.demo_sea_battle;
+package head_05.sea_battle;
 
 public class SimpleDotComGame {
     public static void main(String[] args) {

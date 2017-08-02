@@ -1,4 +1,4 @@
-package head_05.exercise.task1;
+package head_05.exercise;
 
 public class MultiFor {
     public static void main(String[] args) {
