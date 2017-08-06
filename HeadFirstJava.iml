@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Head_09" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Head_10" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Head_11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Head_12" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src" />
     </content>
     <orderEntry type="inheritedJdk" />
