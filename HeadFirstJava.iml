@@ -19,9 +19,11 @@
       <sourceFolder url="file://$MODULE_DIR$/Head_14" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Head_15" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Head_16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Head_18" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="servlet" level="project" />
   </component>
 </module>
